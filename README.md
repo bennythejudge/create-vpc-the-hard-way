@@ -1,6 +1,6 @@
 # Playing with Terraform (September 2016)
 
-- [VPC](https://aws.amazon.com/vpc/) gives me multipel headaches. Clearly my brains is not good/big enough for so much complexity. 
+- [VPC](https://aws.amazon.com/vpc/) gives me massive headaches. Clearly my brains is not good/big enough for so much complexity. 
 That's why I need to study it again and again to try and get some sort of insight.
 It would help if it was something I did at work but no chance, that's "architect" level stuff.
 
