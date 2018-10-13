@@ -1,5 +1,7 @@
 # Playing with Terraform (September 2016)
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/create-vpc-the-hard-way.svg)](https://www.guardrails.io)
+
 - [VPC](https://aws.amazon.com/vpc/) gives me massive headaches. Clearly my brains is not good/big enough for so much complexity. 
 That's why I need to study it again and again to try and get some sort of insight.
 It would help if it was something I did at work but no chance, that's "architect" level stuff.
